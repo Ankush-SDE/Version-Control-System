@@ -1,6 +1,6 @@
-function initRepo(){
+async function initRepo(){
   console.log("Init command called");
 
 
 }
-module.exports = {initRepo};
+module.exports = { initRepo };
