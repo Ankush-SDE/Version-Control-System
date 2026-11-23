@@ -1,5 +1,5 @@
  const yargs = require('yargs');
-const {hideBin} = require("yargs/helpers");
+// const {hideBin} = require("yargs/helpers");
 
 const { initRepo } = require("./controllers/init");
 const {addRepo} = require("./controllers/add");
