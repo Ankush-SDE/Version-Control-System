@@ -6,7 +6,7 @@
 const { commitRepo } = require("./controllers/commit");
 const { pushRepo } = require("./controllers/push");
 const { pullRepo } = require("./controllers/pull");
-const { revertRepo } = require("./controllers/revert");
+// const { revertRepo } = require("./controllers/revert");
 
 
 
