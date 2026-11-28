@@ -3,7 +3,7 @@
 
 /const { initRepo } = require("./controllers/init");
 // const {addRepo} = require("./controllers/add");
-const { commitRepo } = require("./controllers/commit");
+// const { commitRepo } = require("./controllers/commit");
 const { pushRepo } = require("./controllers/push");
 const { pullRepo } = require("./controllers/pull");
 // const { revertRepo } = require("./controllers/revert");
